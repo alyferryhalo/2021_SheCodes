@@ -11,7 +11,9 @@ public class PrimTypesDemo {
 		float f = 10.9f; 		//           4 bytes
 		
 		// логические
+		boolean boo = true;
 		
 		// символьные
+		char ch = "CHAR-CHAR!"; // 2 bytes
 	}
 }
